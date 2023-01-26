@@ -9,3 +9,6 @@
 [![Kayan Core](https://github.com/kayansolution/kayan-seeder/actions/workflows/build.yml/badge.svg)](https://github.com/kayansolution/kayan-seeder/actions/workflows/build.yml)
 
 [![Kayan Core](https://github.com/kayansolution/kayan-scheduler/actions/workflows/build.yml/badge.svg)](https://github.com/kayansolution/kayan-scheduler/actions/workflows/build.yml)
+
+
+[![Kayan Core](https://github.com/kayansolution/kayan-portal/actions/workflows/build.yml/badge.svg)](https://github.com/kayansolution/kayan-portal/actions/workflows/build.yml)
