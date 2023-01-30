@@ -14,3 +14,5 @@
 [![Kayan Core](https://github.com/kayansolution/kayan-portal/actions/workflows/build.yml/badge.svg)](https://github.com/kayansolution/kayan-portal/actions/workflows/build.yml)
 
 [![Kayan Deployment](https://github.com/kayansolution/kayan-devops/actions/workflows/build.yml/badge.svg)](https://github.com/kayansolution/kayan-devops/actions/workflows/build.yml)
+
+[![Kayan Loader](https://github.com/kayansolution/kayan-loader/actions/workflows/build.yml/badge.svg)](https://github.com/kayansolution/kayan-loader/actions/workflows/build.yml)
